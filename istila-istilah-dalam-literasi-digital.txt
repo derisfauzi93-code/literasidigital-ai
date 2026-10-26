@@ -1,1 +1,196 @@
+Pendahuluan
+Di era perkembangan teknologi informasi, literasi digital menjadi kemampuan penting bagi mahasiswa, penulis, peneliti, dan masyarakat umum. Literasi digital tidak hanya berkaitan dengan kemampuan menggunakan internet, tetapi juga mencakup kemampuan mencari informasi, menilai kebenaran sumber, mengolah data, menulis karya ilmiah, serta memanfaatkan teknologi secara bijak dan bertanggung jawab.
 
+Dalam proses pembuatan buku dan jurnal ilmiah, literasi digital membantu penulis menemukan referensi, menyusun naskah, mengelola kutipan, memeriksa tata bahasa, dan memublikasikan karya melalui media digital. Kehadiran Artificial Intelligence (AI) juga memberikan kemudahan dalam proses penulisan, selama penggunaannya tetap memperhatikan etika akademik.
+
+30 Istilah Literasi Digital yang Berhubungan dengan Pembuatan Buku dan Jurnal Ilmiah
+
+
+
+Berikut adalah 30 istilah literasi digital yang berhubungan dengan pembuatan buku dan jurnal ilmiah.
+
+A. Istilah Dasar dalam Penulisan Buku dan Jurnal
+1. Literasi Digital
+Literasi digital adalah kemampuan menggunakan teknologi digital untuk mencari, memahami, mengevaluasi, membuat, dan menyebarkan informasi secara bertanggung jawab.
+
+Contoh: Mahasiswa mencari referensi buku melalui internet dan memeriksa kredibilitas sumber sebelum menggunakannya.
+
+2. E-Book (Electronic Book)
+E-book adalah buku dalam format digital yang dapat dibaca melalui komputer, laptop, tablet, atau ponsel.
+
+Contoh: Buku panduan bisnis digital yang diterbitkan dalam format PDF atau EPUB.
+
+3. Jurnal Ilmiah
+Jurnal ilmiah adalah publikasi berkala yang memuat artikel hasil penelitian, kajian ilmiah, atau pengembangan ilmu pengetahuan.
+
+Contoh: Jurnal yang membahas pengaruh penggunaan AI terhadap pemasaran digital.
+
+4. Artikel Ilmiah
+Artikel ilmiah adalah tulisan yang membahas suatu permasalahan berdasarkan penelitian, teori, data, atau kajian ilmiah.
+
+Contoh: Artikel mengenai pemanfaatan kecerdasan buatan untuk meningkatkan penjualan UMKM.
+
+5. Naskah Digital
+Naskah digital adalah dokumen tulisan yang dibuat, disunting, dan disimpan menggunakan perangkat digital.
+
+Contoh: Naskah buku yang disusun menggunakan Microsoft Word atau Google Docs.
+
+6. ISBN (International Standard Book Number)
+ISBN adalah nomor identifikasi standar internasional untuk buku atau publikasi berbentuk buku yang memenuhi ketentuan penerbitan ISBN.
+
+Contoh: Buku yang diterbitkan secara resmi dapat menggunakan ISBN sesuai ketentuan lembaga berwenang.
+
+7. DOI (Digital Object Identifier)
+DOI adalah pengenal digital permanen yang digunakan untuk mengidentifikasi objek digital, seperti artikel jurnal dan publikasi ilmiah lainnya.
+
+Contoh: Artikel jurnal memiliki DOI agar lebih mudah ditemukan dan dirujuk secara konsisten.
+
+8. Open Access
+Open access adalah akses terbuka yang memungkinkan masyarakat membaca karya ilmiah secara daring tanpa biaya akses, sesuai dengan ketentuan lisensi publikasinya.
+
+Contoh: Membaca artikel penelitian yang tersedia secara gratis di situs jurnal open access.
+
+B. Istilah Pencarian dan Pengelolaan Referensi
+9. Referensi Digital
+Referensi digital adalah sumber informasi elektronik yang digunakan untuk mendukung isi tulisan.
+
+Contoh: Buku elektronik, artikel jurnal, laporan penelitian, dan dokumen resmi pemerintah.
+
+10. Google Scholar
+Google Scholar adalah layanan pencarian yang membantu pengguna menemukan literatur ilmiah, seperti artikel jurnal, tesis, buku, dan karya akademik lainnya.
+
+Contoh: Mahasiswa mencari penelitian terdahulu tentang pemasaran digital melalui Google Scholar.
+
+11. Database Jurnal
+Database jurnal adalah sistem atau koleksi digital yang menyediakan akses ke informasi artikel ilmiah.
+
+Contoh: DOAJ, PubMed untuk bidang yang relevan, dan database akademik lainnya.
+
+12. Kata Kunci (Keywords)
+Kata kunci adalah istilah utama yang digunakan untuk mencari informasi atau menggambarkan topik suatu tulisan.
+
+Contoh: Kata kunci artikel tentang bisnis digital adalah AI, pemasaran digital, UMKM, dan literasi digital.
+
+13. Sitasi (Citation)
+Sitasi adalah penyebutan sumber yang digunakan atau dirujuk dalam sebuah tulisan.
+
+Contoh: Penulis mencantumkan nama peneliti dan tahun publikasi ketika menggunakan gagasan dari penelitian sebelumnya.
+
+14. Daftar Pustaka
+Daftar pustaka adalah daftar sumber yang dirujuk dalam tulisan dan disusun berdasarkan gaya penulisan yang ditentukan.
+
+Contoh: Buku, artikel jurnal, dan sumber ilmiah lain dicantumkan di akhir naskah.
+
+15. Reference Manager
+Reference manager adalah perangkat lunak untuk mengelola sumber referensi, menyimpan metadata publikasi, serta membantu membuat sitasi dan daftar pustaka.
+
+Contoh: Zotero, Mendeley, dan EndNote.
+
+16. DOI Lookup
+DOI lookup adalah proses mencari atau memeriksa DOI suatu publikasi melalui layanan pencarian DOI.
+
+Contoh: Penulis memeriksa DOI artikel untuk memastikan tautan referensi mengarah ke publikasi yang benar.
+
+C. Istilah Penyusunan dan Penyuntingan Naskah
+17. Template Penulisan
+Template penulisan adalah format dokumen yang menyediakan struktur dan tata letak untuk membantu penulis mengikuti ketentuan tertentu.
+
+Contoh: Template jurnal yang mengatur ukuran kertas, jenis huruf, abstrak, dan daftar pustaka.
+
+18. Outline
+Outline adalah kerangka tulisan yang berisi susunan bab, subbab, dan pokok pembahasan.
+
+Contoh: Buku tentang bisnis digital dapat memiliki bab pengantar, model bisnis digital, strategi pemasaran, dan kesimpulan.
+
+19. Editing
+Editing adalah proses menyunting tulisan agar isi, struktur, bahasa, dan penyajiannya menjadi lebih jelas dan sesuai tujuan.
+
+Contoh: Penulis memperbaiki susunan paragraf dan menghilangkan pengulangan dalam naskah buku.
+
+20. Proofreading
+Proofreading adalah pemeriksaan akhir untuk menemukan kesalahan ejaan, tanda baca, pengetikan, dan konsistensi format.
+
+Contoh: Memeriksa kesalahan penulisan sebelum buku dikirim ke penerbit.
+
+21. Metadata
+Metadata adalah informasi yang menjelaskan suatu dokumen atau publikasi, seperti judul, nama penulis, tahun terbit, penerbit, dan kata kunci.
+
+Contoh: Metadata membantu pembaca menemukan buku digital melalui mesin pencari atau katalog perpustakaan.
+
+22. Layout
+Layout adalah pengaturan tata letak teks, gambar, tabel, judul, dan elemen lain pada halaman buku atau artikel.
+
+Contoh: Mengatur posisi judul bab, nomor halaman, ilustrasi, dan tabel agar mudah dibaca.
+
+D. Istilah AI dan Teknologi dalam Penulisan
+23. Artificial Intelligence (AI)
+Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan sistem komputer menjalankan tugas tertentu yang biasanya memerlukan kemampuan manusia, seperti memahami bahasa dan menghasilkan teks.
+
+Contoh: Menggunakan AI untuk mencari ide awal buku atau menyusun kerangka artikel.
+
+24. Generative AI
+Generative AI adalah jenis AI yang dapat menghasilkan konten baru, seperti teks, gambar, audio, atau kode berdasarkan instruksi dan data yang dipelajarinya.
+
+Contoh: Membuat draf awal pendahuluan artikel dengan bantuan AI, kemudian memeriksa dan menyuntingnya sendiri.
+
+25. Prompt
+Prompt adalah instruksi atau perintah yang diberikan kepada AI untuk memperoleh keluaran tertentu.
+
+Contoh: “Buatkan kerangka buku tentang strategi pemasaran digital untuk UMKM dengan lima bab.”
+
+26. AI Writing Assistant
+AI writing assistant adalah alat berbasis AI yang membantu proses penulisan, misalnya memberikan saran bahasa, menyusun ide, atau memperbaiki kejelasan kalimat.
+
+Contoh: Menggunakan AI untuk menyederhanakan kalimat yang terlalu panjang.
+
+27. Plagiarisme
+Plagiarisme adalah tindakan menggunakan kata-kata, gagasan, atau karya orang lain tanpa pengakuan yang semestinya sehingga seolah-olah menjadi karya sendiri.
+
+Contoh: Menyalin bagian artikel dari internet ke dalam buku tanpa menyebutkan sumbernya.
+
+28. Parafrase
+Parafrase adalah penyampaian kembali gagasan dari suatu sumber menggunakan susunan kalimat sendiri tanpa mengubah makna pokoknya.
+
+Contoh: Menjelaskan kembali teori pemasaran dari buku referensi dengan bahasa sendiri dan tetap mencantumkan sitasi.
+
+29. Pemeriksaan Kemiripan Teks (Similarity Check)
+Pemeriksaan kemiripan teks adalah proses membandingkan tulisan dengan sumber lain untuk menemukan bagian yang memiliki kemiripan.
+
+Contoh: Penulis menggunakan perangkat pemeriksa kemiripan sebelum mengirimkan artikel ke jurnal.
+
+Hasil pemeriksaan kemiripan tidak otomatis membuktikan plagiarisme. Bagian yang mirip harus diperiksa berdasarkan konteks, kutipan, dan sumbernya.
+
+30. Etika Akademik Digital
+Etika akademik digital adalah prinsip kejujuran, tanggung jawab, transparansi, dan penghormatan terhadap hak cipta ketika menggunakan teknologi digital untuk kegiatan akademik.
+
+Contoh: Mahasiswa memeriksa fakta yang dihasilkan AI, mencantumkan sumber, menjaga privasi data, serta mengikuti aturan penggunaan AI dari dosen atau penerbit jurnal.
+
+E. Manfaat Literasi Digital dalam Pembuatan Buku dan Jurnal
+Literasi digital memberikan berbagai manfaat dalam proses pembuatan buku dan jurnal ilmiah, antara lain:
+
+Mempermudah pencarian sumber informasi yang relevan.
+
+Membantu penulis mengelola referensi dan sitasi.
+
+Meningkatkan efisiensi proses penyusunan serta penyuntingan naskah.
+
+Memudahkan penerbitan dan penyebaran karya melalui media digital.
+
+Membantu penulis memeriksa keakuratan informasi dan kualitas sumber.
+
+Mendorong penggunaan AI secara bertanggung jawab.
+
+Mengurangi risiko plagiarisme melalui penerapan sitasi yang benar dan pemeriksaan naskah.
+
+Memperluas jangkauan pembaca melalui publikasi digital dan akses terbuka.
+
+F. Kesimpulan
+Istilah-istilah literasi digital yang berkaitan dengan pembuatan buku dan jurnal ilmiah merupakan pengetahuan penting bagi mahasiswa, penulis, dan peneliti. Pemahaman tentang e-book, jurnal ilmiah, DOI, ISBN, sitasi, daftar pustaka, reference manager, AI, parafrase, dan etika akademik dapat membantu menghasilkan karya yang lebih terstruktur, mudah ditemukan, dan dapat dipertanggungjawabkan.
+
+Pemanfaatan AI dapat mempercepat beberapa tahap penulisan, tetapi tidak menggantikan tanggung jawab penulis dalam memeriksa fakta, memastikan orisinalitas, melindungi data, dan mematuhi aturan akademik.
+
+Dengan meningkatkan literasi digital, mahasiswa Bisnis Digital dapat mengembangkan kemampuan menulis buku dan jurnal yang bermanfaat bagi dunia pendidikan, penelitian, dan perkembangan bisnis di era teknologi.
+
+Penulis: Deris Fauzi
+Program Studi: Bisnis Digital
+Mata Kuliah: Literasi Digital Dengan AI
